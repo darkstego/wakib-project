@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/darkstego/wakib-vscode-keybindings/main/images/icon.png" height="128"><br>Wakib Keybindings Project</h2>
 
-PRoject page for the simple keybinding scheme Wakib. 
+Project page for the simple keybinding scheme Wakib. 
 
 ## Project Goals
 
