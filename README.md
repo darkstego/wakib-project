@@ -10,7 +10,7 @@ The project was born from an attempt to come up with a keybindings scheme for cu
 
 The basic keybindings are shown below. These deal mainly with cursor movement and deleting, and so can be used with just about any program.
 
-![ALT-KEYS](https://i.postimg.cc/Fz0qq6DQ/Keyboard-ALT-Layout3.png "wakib-keys alt bindings")
+![Wakib-Basic](https://user-images.githubusercontent.com/2610287/236259599-b9bc895c-dc52-4ff3-93ee-32e2baed3b1f.png)
 
 ## Project Implimentation
 
