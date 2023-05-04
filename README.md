@@ -1,4 +1,3 @@
-![wakib-logo-v1](https://user-images.githubusercontent.com/2610287/236253542-ab75c56d-0bbc-457a-8587-d5d2c78d0eb3.svg)
 <h2 align="center"><img src="https://user-images.githubusercontent.com/2610287/236253542-ab75c56d-0bbc-457a-8587-d5d2c78d0eb3.svg" height="128"><br>Wakib Keybindings Project</h2>
 
 Project page for the simple keybinding scheme Wakib. 
