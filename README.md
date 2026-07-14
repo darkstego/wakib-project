@@ -1,4 +1,4 @@
-<h2 align="center"><img src="./assets/wakib-logo.svg" height="128" alt="Wakib Logo"><br>Wakib Keybindings Project</h2>
+<h2 align="center"><img src="./assets/wakib-logo.svg" width="300" alt="Wakib Logo"><br>Wakib Keybindings Project</h2>
 
 Project page for the simple keybinding scheme Wakib. 
 
